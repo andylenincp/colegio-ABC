@@ -1,0 +1,16 @@
+C:\Users\andyc\Desktop\colegioABC\colegioABC\bin\Debug\net5.0\colegioABC.exe
+C:\Users\andyc\Desktop\colegioABC\colegioABC\bin\Debug\net5.0\colegioABC.deps.json
+C:\Users\andyc\Desktop\colegioABC\colegioABC\bin\Debug\net5.0\colegioABC.runtimeconfig.json
+C:\Users\andyc\Desktop\colegioABC\colegioABC\bin\Debug\net5.0\colegioABC.runtimeconfig.dev.json
+C:\Users\andyc\Desktop\colegioABC\colegioABC\bin\Debug\net5.0\colegioABC.dll
+C:\Users\andyc\Desktop\colegioABC\colegioABC\bin\Debug\net5.0\ref\colegioABC.dll
+C:\Users\andyc\Desktop\colegioABC\colegioABC\bin\Debug\net5.0\colegioABC.pdb
+C:\Users\andyc\Desktop\colegioABC\colegioABC\obj\Debug\net5.0\colegioABC.csproj.AssemblyReference.cache
+C:\Users\andyc\Desktop\colegioABC\colegioABC\obj\Debug\net5.0\colegioABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyc\Desktop\colegioABC\colegioABC\obj\Debug\net5.0\colegioABC.AssemblyInfoInputs.cache
+C:\Users\andyc\Desktop\colegioABC\colegioABC\obj\Debug\net5.0\colegioABC.AssemblyInfo.cs
+C:\Users\andyc\Desktop\colegioABC\colegioABC\obj\Debug\net5.0\colegioABC.csproj.CoreCompileInputs.cache
+C:\Users\andyc\Desktop\colegioABC\colegioABC\obj\Debug\net5.0\colegioABC.dll
+C:\Users\andyc\Desktop\colegioABC\colegioABC\obj\Debug\net5.0\ref\colegioABC.dll
+C:\Users\andyc\Desktop\colegioABC\colegioABC\obj\Debug\net5.0\colegioABC.pdb
+C:\Users\andyc\Desktop\colegioABC\colegioABC\obj\Debug\net5.0\colegioABC.genruntimeconfig.cache
